@@ -1,5 +1,5 @@
 ### 👋 Merhabalar
-### 👋 Profilime Hoş Geldin :
+### 👋 Profilime Hoş Geldin
 ------------------------------------------------
 
 - 🔭 Burada genellikle python'la projeler yapıyorum ve yaptığım projeleri paylaşıyorum
