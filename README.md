@@ -3,7 +3,7 @@
 ------------------------------------------------
 
 - 🔭 Burada genellikle python'la projeler yapıyorum ve yaptığım projeleri paylaşıyorum
-- 📫 Bana discord adresimden ulaşabilirsiniz : quartzz.dll
 - ⚡ En fazla kullandığım diller ise : Python , C# ve Lua  
+- 📫 Bana discord adresimden ulaşabilirsiniz : quartzz.dll
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuartzzDev&show_icons=true&theme=transparent)
+![Quartzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuartzzDev&show_icons=true&theme=transparent)
