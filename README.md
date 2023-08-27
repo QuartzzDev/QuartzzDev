@@ -8,4 +8,4 @@
 
 ![Quartzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuartzzDev&show_icons=true&theme=transparent)
 
-![Quartzz's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuartzzDev&theme=blue-green)]
+![Quartzz's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuartzzDev&theme=blue-green)
