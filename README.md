@@ -8,4 +8,4 @@
 
 ![Quartzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuartzzDev&show_icons=true&theme=transparent)
 
-[![Quartzz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuartzzDev&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[!En Fazla Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=QuartzzDev&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
