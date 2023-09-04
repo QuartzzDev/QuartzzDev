@@ -8,6 +8,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quartzzdev&show_icons=true&theme=radical&title_color=ed02da&text_color=08c95c&cache_seconds=1800&locale=en" alt="quartzzdev" /></p>
 
-![Quartzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuartzzDev&show_icons=true&theme=radical)
-
 ![Quartzz's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuartzzDev&theme=blue-green)
