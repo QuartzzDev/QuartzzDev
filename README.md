@@ -1,14 +1,29 @@
-### 👋 Merhabalar
-### 👋 Profilime Hoş Geldin
-------------------------------------------------
+# 💫 About Me:
 
-- 🔭 Burada genellikle python'la projeler yapıyorum ve yaptığım projeleri paylaşıyorum
-- ⚡ En fazla kullandığım diller ise : Python ve C#  
-- 📫 Bana discord adresimden ulaşabilirsiniz : quartzz.dll
+### 👋 Hello                
+### 👋 Welcome to my github profile             
 
-<h3 align="left"> • Diller ve Programlar :</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+• 🔭 Here I usually do projects with python and share the projects I have made<br>• ⚡ The languages ​​I use the most are: Python and C#  <br>• 📫 Bana discord adresimden ulaşabilirsiniz : quartzz.dll
 
+
+## 🌐 Social Media:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ozcnegehan)                
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/quartzz.dll) -> quartzz.dll         
+
+
+# 💻 Languages ​​and programs I use :
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)      <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/text%20editors/vscode.svg" alt="VS Code with Lua" width="20" height="20">
+
+
+
+# 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quartzzdev&show_icons=true&theme=radical&title_color=ed02da&text_color=09c5d6&cache_seconds=1800&locale=en" alt="quartzzdev" /></p>
 
-![Quartzz's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuartzzDev&theme=blue-green)
+-------------------------
+
+
+
+
+
+
+
