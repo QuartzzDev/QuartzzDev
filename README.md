@@ -3,7 +3,8 @@
 ### 👋 Hello                
 ### 👋 Welcome to my github profile             
 
-• 🔭 Here I usually do projects with python and share the projects I have made<br>• ⚡ The languages ​​I use the most are: Python and C#  <br>• 📫 Bana discord adresimden ulaşabilirsiniz : quartzz.dll
+• 🔭 Here I usually do projects with python and share the projects I have made<br>• ⚡ The languages ​​I use the most are: Python and C#  <br>• 📫 You can reach me on my discord address
+ : quartzz.dll
 
 
 ## 🌐 Social Media:
